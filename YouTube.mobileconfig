@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadDisplayName</key>
+    <string>YouTube</string>
+    <key>PayloadDescription</key>
+    <string>YouTube web app</string>
+    <key>PayloadOrganization</key>
+    <string>YouTube</string>
+    <key>PayloadIdentifier</key>
+    <string>SAFI.a0956ad4-c492-4cc5-8547-fa8df7ad003b</string>
+    <key>PayloadUUID</key>
+    <string>9c462019-531a-499b-b0d8-90f59823fca1</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false />
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>TargetDeviceType</key>
+    <integer>1</integer>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadDisplayName</key>
+        <string>Web Clip #1</string>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.webClip.managed</string>
+        <key>PayloadType</key>
+        <string>com.apple.webClip.managed</string>
+        <key>PayloadUUID</key>
+        <string>5326aa3b-52c8-45e3-97d3-381aaaeb20ed</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>Label</key>
+        <string>YouTube</string>
+        <key>URL</key>
+        <string>https://m.youtube.com</string>
+        <key>Icon</key>
+        <data>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</data>
+        <key>FullScreen</key>
+        <true />
+      </dict>
+    </array>
+  </dict>
+</plist>
